@@ -1,0 +1,6 @@
+build/
+mysh
+*.o
+*.d
+*.swp
+*.swo
